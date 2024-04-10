@@ -14,7 +14,7 @@ Predefined configurations for TypeScript projects.
 Start by installing the package into your project with the following command:
 
 ```bash
-npm i @hynix-team/ts-config
+npm i -D @hynix-team/ts-config
 ```
 Now in your `tsconfig.json` file you must expand all the properties of the installed package.
 ```json
