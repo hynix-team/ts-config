@@ -14,5 +14,8 @@
   "private": false,
   "publishConfig": {
     "access": "public"
+  },
+  "peerDependencies": {
+    "typescript": ">=5"
   }
 }
