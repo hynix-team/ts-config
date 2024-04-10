@@ -20,7 +20,6 @@ Now in your `tsconfig.json` file you must expand all the properties of the insta
 ```json
 {
   "extends": "@hynix-team/ts-config/base.json"
-  // react.json or nextjs.json
 }
 ```
 ✅ Now you are ready to write your TypeScript codes safely.
