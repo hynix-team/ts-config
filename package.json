@@ -1,10 +1,13 @@
 {
   "name": "@hynix-team/ts-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Predefined configurations for TypeScript projects.",
   "exports": {
     "./*": "./src/*.json"
   },
+  "files": [
+    "./src/*"
+  ],
   "homepage": "https://github.com/hynix-team/ts-config",
   "keywords": [
     "hynix",
